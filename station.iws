@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff27d4a3-20ad-4700-9273-0f43e58f7941" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="296sgSAuodX2Awf1HgIJHssX10d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/dev/Assignment Prog + Web/Weather-web-app/Deployment/weatherapp-version1",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\Assignment Prog + Web\Weather-web-app\weathertop v6l\lib" />
+      <recent name="C:\dev\Assignment Prog + Web\Weather-web-app\weathertop v6l\app\utils" />
+      <recent name="C:\dev\Assignment Prog + Web\Weather-web-app\weathertop v6f\app" />
+      <recent name="C:\dev\Assignment Prog + Web\Weather-web-app\weathertop v6e\app\views\tags" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\Assignment Prog + Web\Weather-web-app\weathertop v6l\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Analytics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.Analytics" />
+      <module name="station" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Analytics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff27d4a3-20ad-4700-9273-0f43e58f7941" name="Changes" comment="" />
+      <created>1652444980537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652444980537</updated>
+      <workItem from="1652444983344" duration="9385000" />
+      <workItem from="1652458071575" duration="5196000" />
+      <workItem from="1652557831722" duration="1541000" />
+      <workItem from="1652698610556" duration="1033000" />
+      <workItem from="1652709242214" duration="3919000" />
+      <workItem from="1652717099655" duration="11542000" />
+      <workItem from="1652734443252" duration="581000" />
+      <workItem from="1652782302825" duration="4123000" />
+      <workItem from="1652786940597" duration="4991000" />
+      <workItem from="1652816818915" duration="3555000" />
+      <workItem from="1652871203857" duration="1339000" />
+      <workItem from="1652878784374" duration="95000" />
+      <workItem from="1652879722990" duration="23696000" />
+      <workItem from="1652965780931" duration="3505000" />
+      <workItem from="1652971682432" duration="1227000" />
+      <workItem from="1652974447950" duration="7971000" />
+      <workItem from="1653302551050" duration="8274000" />
+      <workItem from="1653327424919" duration="2075000" />
+      <workItem from="1653334042325" duration="1516000" />
+      <workItem from="1653395580560" duration="783000" />
+      <workItem from="1653396406956" duration="2091000" />
+      <workItem from="1653398640014" duration="3786000" />
+      <workItem from="1653415019758" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

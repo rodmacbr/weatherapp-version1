@@ -1,0 +1,72 @@
+<div class="ui grid">
+    <div class="three wide column">
+        <div class="ui card" style="background-color: black; color: white;">
+            <div class="content">
+                <i class="ui map pin icon green large right floated"></i>
+                <div class="header" style="color: white; text-align: center;">${_station.name}</div>
+                <ul>
+                    <br>
+                    <li>Lat: ${_station.latitude}</li>
+                    <li>Lng: ${_station.longitude}</li>
+                    <br><br><br><br>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="three wide column">
+        <div class="ui card" style="background-color: black; color: white;">
+            <div class="content">
+                <i class="ui cloud sun icon red large right floated"></i>
+                <div class="header" style="color: white; text-align: center;">Weather</div>
+                <ul>
+                    <br>
+                    <li>Code: ${_station.getLatestReading()?.code}</li>
+                    <li>${_station.getLatestReading()?.getWCodes()}</li>
+                    <br><br><br><br>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="three wide column">
+        <div class="ui card" style="background-color: black; color: white;">
+            <div class="content">
+                <i class="ui temperature low icon large right floated"></i>
+                <div class="header" style="color: white; text-align: center;">Temp</div>
+                <ul>
+                    <br>
+                    <li>Celsius: ${_station.getLatestReading()?.temperature} °C</li>
+                    <li>Fahrenheit: ${_station.getLatestReading()?.fahrenheit()} °F</li>
+                    <br><br><br>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="three wide column">
+        <div class="ui card" style="background-color: black; color: white;">
+            <div class="content">
+                <i class="ui wind icon blue large right floated"></i>
+                <div class="header" style="color: white; text-align: center;">Wind</div>
+                <ul>
+                    <li>${_station.getLatestReading()?.windSpeed} Km/h</li>
+                    <li>${_station.getLatestReading()?.getBeaufort()} Bft</li>
+                    <li>Direction: ${_station.getLatestReading()?.getConvertWindDir()}</li>
+                    <li>Feels like ${_station.getLatestReading()?.getWChill()?.round(1)} °C</li>
+                    <br>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="three wide column">
+        <div class="ui card" style="background-color: black; color: white;">
+            <div class="content">
+                <i class="ui snowflake outline icon orange large right floated"></i>
+                <div class="header" style="color: white; text-align: center;">Pressure</div>
+                <ul>
+                    <br>
+                    <li>${_station.getLatestReading()?.pressure} Hpa</li>
+                    <br><br><br><br><br>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
