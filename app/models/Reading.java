@@ -22,8 +22,6 @@ public class Reading extends Model
   public static String convertWindDir;
 
 
-
-
   public Reading(int code, float temperature, float windSpeed, int windDirection, int pressure)
   {
     this.date = new Date(System.currentTimeMillis());
@@ -39,7 +37,7 @@ public class Reading extends Model
     return Analytics.wCodes(code);
   }
 
-    public float fahrenheit() {
+  public float fahrenheit() {
         return ((temperature * 9)/5) + 32;
     }
 

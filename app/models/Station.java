@@ -30,13 +30,16 @@ public class Station extends Model
     return this.readings.get(this.readings.size() - 1);
   }
 */
+
   public Reading getLatestReading(){
     Reading latestReading = null;
-    if (readings.size() >0) {
+    if (readings.size() > 0) {
       latestReading = readings.get(readings.size() -1);
     }
     return latestReading;
   }
+
+
 
   public Station(String name, float latitude, float longitude)
   {

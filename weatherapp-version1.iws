@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8beb3de2-7f4d-4a04-8b5f-dfc8a43091fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/weatherapp-version1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp-version1.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherapp-version1.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1001$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1001$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1001.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1003$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1003$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1003.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1003.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1004$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1004$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1006$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1006$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1006.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1006.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1008$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1008$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1008.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1009$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1009$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1009.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1009.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1010$_run_closure1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1010$_run_closure1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1010.class" beforeDir="false" afterPath="$PROJECT_DIR$/Template_1010.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1011$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1012$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1012.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1013$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1013.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1014$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1014.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1016$_run_closure1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template_1016.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Reading.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Reading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Station.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Station.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/dependencies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dependencies.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/station.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/station.ipr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/station.iws" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/Bootstrap" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/Bootstrap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_500.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_login.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_station.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_addreading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_addstation.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_addstation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_listreadings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_errors_404.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_errors_404.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_500.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Reading" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Reading" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Station" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Station" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/utils.HashMap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/utils.LastReading" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/utils.WeatherCondition" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/utils.WeatherCondition$wCondition" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/Bootstrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/Bootstrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/models/Reading.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/models/Reading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/models/Station.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/models/Station.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/play.plugins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/PlayDocumentation/cheatSheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/PlayDocumentation/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/PlayDocumentation/releases.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/errors/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/errors/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/station.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/tags/addreading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/tags/addstation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/tags/grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/tags/listreadings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/tags/mainpanel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/tags/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/production/station/views/tags/welcomemenu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/utils/HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/utils/LastReading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/utils/WeatherCondition$wCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/utils/WeatherCondition.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="29edVyVwmu4HrVb1xDJQv6nnpKy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/dev/Assignment Prog + Web/Weather-web-app/weathertop v13"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8beb3de2-7f4d-4a04-8b5f-dfc8a43091fd" name="Changes" comment="" />
+      <created>1653477525541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653477525541</updated>
+      <workItem from="1653477533003" duration="2465000" />
+      <workItem from="1653492295966" duration="6270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
