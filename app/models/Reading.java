@@ -12,7 +12,7 @@ public class Reading extends Model
 {
   public Date date;
   public int code;
-  public static float temperature;
+  public float temperature;
   public float windSpeed;
   public int windDirection;
   public int pressure;
