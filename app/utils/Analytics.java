@@ -23,6 +23,19 @@ public class Analytics {
     }
 
 
+    public static String icons (int code)
+    {
+        HashMap<Integer, String> icons = new HashMap<Integer, String>();
+        icons.put(100, "large orange sun outline icon right floated");
+        icons.put(200, "large light blue cloud sun icon right floated");
+        icons.put(300, "large grey cloud icon right floated");
+        icons.put(400, "large blue cloud rain icon right floated");
+        icons.put(500, "large grey cloud showers heavy icon right floated");
+        icons.put(600, "large purple umbrella icon right floated");
+        icons.put(700, "large pink snowflake outline icon right floated");
+        icons.put(800, "large yellow bolt icon right floated");
+        return icons.get(code);
+    }
 
     public static int beaufort (float windSpeed){
         float speed = windSpeed;

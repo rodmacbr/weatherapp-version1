@@ -8,8 +8,7 @@ import play.db.jpa.Model;
 import utils.Analytics;
 
 @Entity
-public class Reading extends Model
-{
+public class Reading extends Model {
   public Date date;
   public int code;
   public float temperature;
@@ -22,8 +21,7 @@ public class Reading extends Model
   public static String convertWindDir;
 
 
-  public Reading(int code, float temperature, float windSpeed, int windDirection, int pressure)
-  {
+  public Reading(int code, float temperature, float windSpeed, int windDirection, int pressure) {
     this.date = new Date(System.currentTimeMillis());
     this.code = code;
     this.temperature = temperature;
@@ -33,20 +31,24 @@ public class Reading extends Model
   }
 
 
-  public String getWCodes(){
+  public String getWCodes() {
     return Analytics.wCodes(code);
   }
 
+  public String icons() {
+    return Analytics.icons(code);
+  }
+
   public float fahrenheit() {
-        return ((temperature * 9)/5) + 32;
-    }
+    return ((temperature * 9) / 5) + 32;
+  }
 
 
-  public int getBeaufort(){
+  public int getBeaufort() {
     return Analytics.beaufort(windSpeed);
   }
 
-  public String getConvertWindDir(){
+  public String getConvertWindDir() {
     return Analytics.windCompass(windDirection);
   }
 
