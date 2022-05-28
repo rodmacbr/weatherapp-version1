@@ -1,25 +1,25 @@
 <form class="ui stacked segment form" action="/stations/${_station.id}/addreading" method="POST">
-  <div class="two fields">
-    <div class="field">
-      <label>Code</label>
-      <input placeholder="Code" type="number" name="code" min="100" max="800" step="100">
+    <div class="two fields">
+        <div class="field">
+            <label>Code</label>
+            <input placeholder="Code" type="number" name="code" min="100" max="800" step="100">
+        </div>
+        <div class="field">
+            <label>Temperature</label>
+            <input placeholder="Temperature" type="number" name="temperature" min="-30" max="50" step="0.5">
+        </div>
+        <div class="field">
+            <label>Wind Speed</label>
+            <input placeholder="windSpeed" type="number" name="windSpeed" min="1" max="117" step="0.5">
+        </div>
+        <div class="field">
+            <label>Wind Direction</label>
+            <input placeholder="windDirection" type="number" name="windDirection" min="0" max="360" step="0.25">
+        </div>
+        <div class="field">
+            <label>Pressure</label>
+            <input placeholder="Pressure" type="number" name="pressure" min="980" max="1030" step="0.25">
+        </div>
     </div>
-    <div class="field">
-      <label>Temperature</label>
-      <input placeholder="Temperature" type="number" name="temperature" min="-30" max="50" step="0.5">
-    </div>
-    <div class="field">
-      <label>Wind Speed</label>
-      <input placeholder="windSpeed" type="number" name="windSpeed" min="1" max="117" step="0.5">
-    </div>
-    <div class="field">
-      <label>Wind Direction</label>
-      <input placeholder="windDirection" type="number" name="windDirection" min="0" max="360" step="0.25">
-    </div>
-    <div class="field">
-      <label>Pressure</label>
-      <input placeholder="Pressure" type="number" name="pressure" min="980" max="1030" step="0.25">
-    </div>
-  </div>
-  <button class="ui blue submit button">Submit Report</button>
+    <button class="ui blue submit button">Submit Report</button>
 </form>

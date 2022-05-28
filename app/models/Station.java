@@ -12,8 +12,7 @@ import play.db.jpa.Model;
 
 
 @Entity
-public class Station extends Model
-{
+public class Station extends Model {
 
   public String name;
 
@@ -31,18 +30,16 @@ public class Station extends Model
   }
 */
 
-  public Reading getLatestReading(){
+  public Reading getLatestReading() {
     Reading latestReading = null;
     if (readings.size() > 0) {
-      latestReading = readings.get(readings.size() -1);
+      latestReading = readings.get(readings.size() - 1);
     }
     return latestReading;
   }
 
 
-
-  public Station(String name, float latitude, float longitude)
-  {
+  public Station(String name, float latitude, float longitude) {
     this.name = name;
     this.latitude = latitude;
     this.longitude = longitude;
